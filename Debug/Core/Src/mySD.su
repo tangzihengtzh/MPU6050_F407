@@ -1,0 +1,8 @@
+../Core/Src/mySD.c:13:5:create_and_write_txt	1256	static
+../Core/Src/mySD.c:81:6:read_and_append_txt	1168	static
+../Core/Src/mySD.c:132:6:read_and_append_txt_line	1416	static
+../Core/Src/mySD.c:183:5:display_sd_card_files	672	static
+../Core/Src/mySD.c:225:5:create_data_file	1160	static
+../Core/Src/mySD.c:260:5:get_file_name_by_index	656	static
+../Core/Src/mySD.c:310:5:display_file_first_10_lines	1552	static
+../Core/Src/mySD.c:363:6:buffered_append_txt_lines	1184	static

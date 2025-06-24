@@ -1,0 +1,2 @@
+../Core/Src/gpio.c:27:5:read_key_state	24	static
+../Core/Src/gpio.c:64:6:MX_GPIO_Init	64	static

@@ -1,0 +1,6 @@
+../Drivers/BSP/MPU/MPU.c:14:19:MPU_Write_Register	1
+../Drivers/BSP/MPU/MPU.c:19:19:MPU_Read_Register	1
+../Drivers/BSP/MPU/MPU.c:24:19:mpu_init	6
+../Drivers/BSP/MPU/MPU.c:64:9:MPU_Read_Accel_X	1
+../Drivers/BSP/MPU/MPU.c:78:9:MPU_Read_Accel_Y	1
+../Drivers/BSP/MPU/MPU.c:92:9:MPU_Read_Accel_Z	1
